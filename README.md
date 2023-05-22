@@ -1,2 +1,5 @@
 # study
 通过spring-boot和vue构建的相关学习系统
+前端采用相关的vue的脚手架进行相关的编辑和操作
+后端采用springboot进行相关后端代码实现
+通过mysql数据库进行相关的数据内容准备
